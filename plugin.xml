@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-firebase-dynamiclinks3"version="1.0.1">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-firebase-dynamiclinks2" version="1.0.0">
 
-    <name>FirebaseDynamicLinksPlugin3</name>
+    <name>FirebaseDynamicLinksPlugin</name>
     <repo>https://github.com/OnnoOver9000/cordova-plugin-firebase-dynamiclinks.git</repo>
     <description>Cordova plugin for Firebase Dynamic Links</description>
     <license>MIT</license>
